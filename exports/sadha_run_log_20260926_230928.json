@@ -1,0 +1,32 @@
+{
+  "session_timestamp": "20260926_230928",
+  "mode": "video",
+  "total_frames_processed": 1,
+  "duration_seconds": 0.06,
+  "performance_metrics": {
+    "average_fps": 15.9,
+    "current_fps": 1.9,
+    "average_tracking_error_px": 0.0,
+    "max_tracking_error_px": 0.0,
+    "lock_status": "LOCKED(1)",
+    "initial_acquisition_sec": "< 0.04",
+    "reacquisition_sec": "0.00"
+  },
+  "active_tracks": [
+    {
+      "track_id": 1,
+      "terminal_id": 0,
+      "position": [
+        320.0,
+        239.0
+      ],
+      "velocity": [
+        -1.0,
+        -1.0
+      ],
+      "lock_state": "locked",
+      "consecutive_missed_frames": 0,
+      "matched": true
+    }
+  ]
+}
